@@ -2,8 +2,6 @@
 
 This project is a simple GUI-based pizza billing system that allows a user to select a pizza and toppings from a list of available options and calculate the total cost of the order.
 
-![Pizza billing GUI](https://bathrivijay05.github.io/project-images/pizza-billing-gui.jpg)
-
 ## Features
 
 -   The user can select a pizza from a list of available options.
@@ -63,3 +61,7 @@ This project was created by [@bathrivijay05](https://github.com/bathrivijay05).
 ## License
 
 This project is licensed under the MIT License.
+
+## Demo Image
+
+![Pizza billing GUI](https://bathrivijay05.github.io/project-images/pizza-billing-gui.jpg)
