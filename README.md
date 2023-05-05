@@ -20,20 +20,13 @@ This project is a simple GUI-based pizza billing system that allows a user to se
 
 1.  Clone the repository to your local machine:
     
-    bashCopy code
-    
     `git clone https://github.com/bathrivijay05/simple-pizza-billing-using-tkinter.git` 
     
 2.  Navigate to the project directory:
     
-    bashCopy code
-    
-    `cd simple-pizza-billing-using-tkinter
-` 
+    `cd simple-pizza-billing-using-tkinter` 
     
 3.  Install the required packages using pip:
-    
-    Copy code
     
     `pip install -r requirements.txt` 
     
@@ -41,8 +34,6 @@ This project is a simple GUI-based pizza billing system that allows a user to se
 ## Usage
 
 1.  Run the `pizza_billing.py` file:
-    
-    Copy code
     
     `python pizza_billing.py` 
     
