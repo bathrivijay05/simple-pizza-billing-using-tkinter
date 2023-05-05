@@ -2,6 +2,8 @@
 
 This project is a simple GUI-based pizza billing system that allows a user to select a pizza and toppings from a list of available options and calculate the total cost of the order.
 
+![Pizza billing GUI](https://github.com/bathrivijay05/simple-pizza-billing-using-tkinter/raw/main/pizza-billing-gui.png)
+
 ## Features
 
 -   The user can select a pizza from a list of available options.
