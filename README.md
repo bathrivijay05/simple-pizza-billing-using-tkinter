@@ -55,4 +55,4 @@ This project is licensed under the MIT License.
 
 ## Demo Image
 
-![Pizza billing GUI](https://bathrivijay05.github.io/project-images/pizza-billing-gui.jpg)
+![Pizza Billing GUI](https://github.com/bathrivijay05/simple-pizza-billing-using-tkinter/blob/main/screenshot.jpg?raw=true)
